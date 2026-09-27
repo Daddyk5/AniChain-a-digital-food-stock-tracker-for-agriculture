@@ -1,0 +1,43 @@
+{
+  "_comment": "Maps labels as printed by Davao sources to backend commodity slugs and market keys. Matching is case-insensitive. Extend this as real bulletins are onboarded.",
+  "commodities": {
+    "Pork Kasim": "pork-kasim",
+    "Pork Liempo": "pork-liempo",
+    "Beef Brisket": "beef-brisket",
+    "Whole Chicken": "chicken-whole-dressed",
+    "Dressed Chicken": "chicken-whole-dressed",
+    "Yellowfin Tuna": "yellowfin-tuna",
+    "Tuna (Yellowfin)": "yellowfin-tuna",
+    "Bangus": "bangus",
+    "Milkfish": "bangus",
+    "Tilapia": "tilapia",
+    "Galunggong": "galunggong",
+    "Squid": "squid",
+    "Pusit": "squid",
+    "Chicken Egg (Medium)": "egg-chicken-medium",
+    "Chicken Egg (Large)": "egg-chicken-large",
+    "Duck Egg": "egg-duck",
+    "Tomato": "tomato",
+    "Red Onion": "onion-red",
+    "Onion (Red)": "onion-red",
+    "Cabbage": "cabbage",
+    "Eggplant": "eggplant",
+    "Ampalaya": "ampalaya",
+    "Pechay": "pechay",
+    "Carrots": "carrots",
+    "Banana (Lakatan)": "banana-lakatan",
+    "Lakatan": "banana-lakatan",
+    "Durian": "durian",
+    "Pomelo": "pomelo",
+    "Mango (Carabao)": "mango-carabao",
+    "Carabao Mango": "mango-carabao",
+    "Mangosteen": "mangosteen"
+  },
+  "markets": {
+    "Bankerohan": "bankerohan",
+    "Bankerohan Public Market": "bankerohan",
+    "Agdao": "agdao",
+    "Agdao Public Market": "agdao",
+    "Davao City": "davao-city"
+  }
+}
